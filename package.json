@@ -1,6 +1,6 @@
 {
   "name": "b-e-m",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typographically pleasing syntax for BEM",
   "main": "index.js",
   "scripts": {
