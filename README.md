@@ -1,6 +1,8 @@
 # B-E-M
 **Typographically pleasing syntax for BEM**
 
+[![Build Status](https://travis-ci.org/fredericmarx/b-e-m.svg?branch=master)](https://travis-ci.org/fredericmarx/b-e-m) 
+
 ## Basic education manual
 
 In case you haven't heard about it, [BEM](https://en.bem.info/) is the CSS structuring methodology du jour according to [thought-leaders](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) [in](http://www.smashingmagazine.com/2012/04/16/a-new-front-end-methodology-bem/) [front-end](http://webdesign.tutsplus.com/articles/an-introduction-to-the-bem-methodology–cms-19403) [architecture](https://css-tricks.com/bem-101/).
