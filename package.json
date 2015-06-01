@@ -1,0 +1,33 @@
+{
+  "name": "B-E-M",
+  "version": "1.0.0",
+  "description": "Typographically pleasing syntax for BEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "bem",
+    "css",
+    "sass",
+    "preprocessor",
+    "parody"
+  ],
+  "author": "Frederic Marx <marx.frederic@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredericmarx/b-e-m.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fredericmarx/b-e-m/issues"
+  },
+  "homepage": "https://github.com/fredericmarx/b-e-m"
+}
